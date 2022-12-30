@@ -1,7 +1,5 @@
 # fernandev
 
-/\*
-
 - CHALLENGE progresso do formulário
 
 - INSTRUÇÕES
